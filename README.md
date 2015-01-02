@@ -23,7 +23,7 @@ Neither this work nor the Greek Reference/Ancient Greek Lexicon & Syntax app is 
 [Perseus]: http://www.perseus.tufts.edu
 [app]: https://github.com/blinskey/greek-reference
 [lexicon-xml]: http://www.perseus.tufts.edu/hopper/dltext?doc=Perseus%3Atext%3A1999.04.0058
-[lexicon-htmll]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058
+[lexicon-html]: http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058
 [CC BY-SA 3.0 US]: http://creativecommons.org/licenses/by-sa/3.0/us/
 [this-repo]: https://github.com/blinskey/middle-liddell
 [db-creator]: https://github.com/blinskey/greek-reference-databsae-creator
