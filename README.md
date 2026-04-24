@@ -2,6 +2,8 @@
 
 This is a fork of the [Perseus Digital Library][Perseus]'s XML version of Liddell and Scott's *An Intermediate Greek-English Lexicon*. It will be used in future versions of the [Ancient Greek Lexicon & Syntax/Greek Reference][app] Android app.
 
+This repository is hosted on [git.linskey.org](https://git.linskey.org/middle-liddell) and mirrored on [GitHub](https://github.com/blinskey/middle-liddell).
+
 ## Source
 
 Text provided by Perseus Digital Library, with funding from The Annenberg CPB/Project. Original version available for viewing and download at http://www.perseus.tufts.edu/hopper/.
